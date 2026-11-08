@@ -1,0 +1,12 @@
+[package]
+name = "sigmaos_xkeyboard_config"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "SigmaOS xkeyboard-config component inspired by Linux Mint / Omarchy / Arch Linux."
+
+[dependencies]
+
+[lib]
+name = "sigmaos_xkeyboard_config"
+path = "src/lib.rs"
