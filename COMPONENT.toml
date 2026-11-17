@@ -3,7 +3,7 @@ name = "SigmaOS-xkeyboard-config"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "xkeyboard-config component"
+description = "SigmaOS SigmaOS-xkeyboard-config component"
 upstream = []
 
 [contract]
